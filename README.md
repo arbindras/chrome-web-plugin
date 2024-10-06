@@ -1,7 +1,7 @@
 # Chrome-web-plugin
 
 # Description:
-  1. This plugin extracts product details from Zara's e-commerce pages and displays similar product links within the plugin popup.
+This plugin extracts product details from Zara's e-commerce pages and displays similar product links within the plugin popup.
 # Installation Instructions:
 1. Download the ZIP file containing the plugin from the provided link.
 2. Open Google Chrome and go to chrome://extensions/.
